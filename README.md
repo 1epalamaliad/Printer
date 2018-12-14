@@ -14,7 +14,7 @@
 |7	Arduino Uno R3 Starter / Basic Kit with Motors (Oem)	                        | 39,99	  | 1	            |  39,99<br>
 |8  OV 7670 camera module for arduino                                             | 9,99    | 1             |  9,99<br>
 |8	Διάφορα μικροϋλικά			                                                      |         |               |  6<br>
-ΣΥΝΟΛΟ	                                                                                                    100,43
+ΣΥΝΟΛΟ	                                                                                                    110,42
 
 
 Το κόστος μπορεί να μειωθεί αν δεν αγοράσουμε DVD-RW ή προτιμήσουμε φθηνότερα. Και επίσης αν πάρουμε απλό Arduino (όχι το starter kit)
