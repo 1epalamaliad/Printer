@@ -13,10 +13,8 @@
 |6	[Voltage Regulator LM317T 1.2V to 37V 1.5A](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/components-and-ic/voltage-regulator-lm317t-1.2v-to-37v-1.5a/)	                                                                                                                                                                             | 0,25	   | 2	           |  0,50<br>
 |7	[ARDUINO UNO R3 ATMEGA328P BOARD WITH USB CABLE (DIP VERSION)(OEM)](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/microcontrollers/compatible-boards/arduino-uno-r3-atmega328p-board-with-usb-cable-dip-version-oem/)	                                                                                                       | 9,80	  | 1	            |  9,80<br>
 |8  [OV 7670 camera module for arduino](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/sensors/camera/ov7670-camera-module-640x480-for-arduino/)                                                      | 9,99    | 1             |  9,99<br
-|9  [65PCS JUMPER WIRE CABLE KIT FOR SOLDERLESS BREADBOARD CONNECTIONS](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/prototyping/dupont-jumper-wires/65pcs-jumper-wire-cable-kit-for-solderless-breadboard-connections/)
-                                                                                  | 3,50    | 3             |10,50<br>
+|9  [65PCS JUMPER WIRE CABLE KIT FOR SOLDERLESS BREADBOARD CONNECTIONS](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/prototyping/dupont-jumper-wires/65pcs-jumper-wire-cable-kit-for-solderless-breadboard-connections/)| 3,50    | 3             |10,50<br>
 |10	Διάφορα μικροϋλικά			                                                      |         |               |  6<br>
+ΣΥΝΟΛΟ                                                                            |         |               |106,92€<br>
 
-ΣΥΝΟΛΟ                                                                            |         |               |106,92€
-
-Το κόστος μπορεί να μειωθεί αν δεν αγοράσουμε DVD-RW ή προτιμήσουμε φθηνότερα. Και επίσης αν πάρουμε απλό Arduino (όχι το starter kit)
+Το κόστος μπορεί να μειωθεί αν δεν αγοράσουμε DVD-RW ή προτιμήσουμε φθηνότερα.
